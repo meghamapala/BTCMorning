@@ -16,4 +16,8 @@ public class Str_Man {
 	int d=ccc.charAt(2);
 	System.out.println(d);
 	
+	String cccc = "My House";
+	int dd=cccc.charAt(2);
+	System.out.println(dd);
+	
 }}
