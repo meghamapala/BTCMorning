@@ -29,6 +29,10 @@ public class Const {
 		
 	}
     
+    void MyHouse(String b) {
+      System.out.println(b);
+	}
+    
     
 	
 	
