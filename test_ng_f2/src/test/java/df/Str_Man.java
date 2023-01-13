@@ -10,6 +10,10 @@ public class Str_Man {
 	int a=cc.charAt(2);
 	System.out.println(a);
 	
-	}
-
-}
+	
+	
+	String ccc = "My House";
+	int d=ccc.charAt(2);
+	System.out.println(d);
+	
+}}
